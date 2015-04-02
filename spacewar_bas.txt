@@ -5,7 +5,6 @@
     5 rem **   for basic week challenge by chris osborn on reddit   **
     6 rem **        note: requires dual monitor 80/40 column        **
     7 rem ************************************************************
-    8 rem
     9 rem
    30 pi=3.14159265358979:d$="3/31/15":dim oa(21,3),q(4),v1$(2),n$(2),a1$(2)
    40 data 10,0,-2,0,0,2,-1,0,3,2,-8,0,-2,-2,-4,0,-4,-2,4,-2,4,0,2,-2,8,0,-3,2,1,0,0,2
